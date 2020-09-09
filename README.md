@@ -6,8 +6,9 @@ A Extension for Cocos Creator
 
 
 ## Installation
+* cd ./error-speech
 * npm install
-* copy to [CocosCreator Project] / packages / errorspeech
+* copy error-speech to [CocosCreator Project]/packages
 * Open CocosCreator and test.
 
 ## Example
