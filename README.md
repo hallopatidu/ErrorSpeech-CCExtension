@@ -3,12 +3,14 @@ A Extension for Cocos Creator
 * Translate and speech errors to vietnamese (option)
 * Rewrite cc.error fo this feature.
 
-# Installation
+
+
+## Installation
 * npm install
 * copy to [CocosCreator Project] / packages / errorspeech
 * Open CocosCreator and test.
 
-# Example
+## Example
 HelloWorld.js
 ````
 ....
@@ -25,4 +27,6 @@ ctor(){
 ....
 ````
 
-
+## Version
+Cocos Creator 2.4.2
+Node 12.18.3
