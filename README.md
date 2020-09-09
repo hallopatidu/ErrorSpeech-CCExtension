@@ -1,9 +1,8 @@
 # ErrorSpeech-CCExtension
 A Extension for Cocos Creator
-* Translate and speech errors to vietnamese (option)
-* Rewrite cc.error fo this feature.
-
-
+* Translation and speech errors to vietnamese (options)
+* Rewrote cc.error for this feature.
+* MAKE FOR FUN - DO NOT USE IN RELEASE PRODUCTIONS
 
 ## Installation
 * cd ./error-speech
@@ -29,5 +28,5 @@ ctor(){
 ````
 
 ## Version
-Cocos Creator 2.4.2
-Node 12.18.3
+* Cocos Creator 2.4.2
+* Node 12.18.3
